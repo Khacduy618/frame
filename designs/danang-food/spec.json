@@ -1,0 +1,136 @@
+{
+  "id": "danang-food",
+  "product": "ourStory",
+  "background": {
+    "image": "paper.png"
+  },
+  "openingBorder": {
+    "color": "#2F5D46",
+    "width": 4,
+    "pad": 12
+  },
+  "stickers": [
+    {
+      "file": "stickers/banh-xeo.png",
+      "x": -120,
+      "y": -150,
+      "w": 832,
+      "z": 1
+    },
+    {
+      "file": "stickers/mi-quang.png",
+      "x": 1770,
+      "y": -70,
+      "w": 772,
+      "z": 1
+    },
+    {
+      "file": "stickers/wordmark.png",
+      "x": 665,
+      "y": 175,
+      "w": 1174,
+      "z": 2
+    },
+    {
+      "file": "stickers/sinh-to-bo.png",
+      "x": 1101,
+      "y": 1988,
+      "w": 302,
+      "z": 3,
+      "overPhoto": true
+    },
+    {
+      "file": "stickers/signpost.png",
+      "x": 20,
+      "y": 2802,
+      "w": 772,
+      "z": 3,
+      "overPhoto": true
+    },
+    {
+      "file": "stickers/ca-phe.png",
+      "x": 1650,
+      "y": 3010,
+      "w": 412,
+      "z": 2
+    },
+    {
+      "file": "stickers/doodle-head.png",
+      "x": 0,
+      "y": 0,
+      "w": 2504,
+      "z": 0
+    },
+    {
+      "file": "stickers/doodle-foot.png",
+      "x": 0,
+      "y": 2900,
+      "w": 2060,
+      "z": 0
+    }
+  ],
+  "texts": [
+    {
+      "text": "where memories meet the sea",
+      "x": 1252,
+      "y": 632,
+      "size": 64,
+      "font": "Noteworthy",
+      "weight": "bold",
+      "color": "#2F5D46",
+      "anchor": "middle"
+    },
+    {
+      "text": "A TRAVEL JOURNAL",
+      "x": 1252,
+      "y": 3092,
+      "size": 28,
+      "font": "Avenir Next",
+      "weight": "600",
+      "color": "#7A6A52",
+      "anchor": "middle",
+      "spacing": 10
+    },
+    {
+      "text": "DA NANG, VIETNAM",
+      "x": 1252,
+      "y": 3164,
+      "size": 52,
+      "font": "Avenir Next",
+      "weight": "bold",
+      "color": "#2F5D46",
+      "anchor": "middle",
+      "spacing": 12
+    },
+    {
+      "text": "THE CITY OF BRIDGES",
+      "x": 1252,
+      "y": 3220,
+      "size": 30,
+      "font": "Avenir Next",
+      "weight": "600",
+      "color": "#D6453A",
+      "anchor": "middle",
+      "spacing": 9
+    },
+    {
+      "text": "HAN RIVER · MY KHE · SON TRA",
+      "x": 168,
+      "y": 1450,
+      "size": 24,
+      "font": "Avenir Next",
+      "weight": "600",
+      "color": "#7A6A52",
+      "anchor": "middle",
+      "spacing": 10,
+      "rotate": -90
+    }
+  ],
+  "logo": {
+    "x": 1092,
+    "y": 3280,
+    "width": 320,
+    "variant": "ink"
+  },
+  "cut": "#2F5D46"
+}

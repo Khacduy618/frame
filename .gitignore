@@ -1,0 +1,6 @@
+node_modules/
+out/
+*.raw.png
+.DS_Store
+# Brand logo stays local (copy it from the app: public/branding/peak-logo-top.png)
+assets/branding/*.png

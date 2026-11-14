@@ -1,0 +1,22 @@
+{
+  "name": "peak-frame-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tools and designs for Peak Photobooth print frames (Canon SELPHY CP1000, 2504x3732 px).",
+  "license": "UNLICENSED",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "tool": "node bin/frame-tool.cjs",
+    "products": "node bin/frame-tool.cjs products",
+    "generate": "node generator/generate-frames.cjs",
+    "design:dragon-night": "node designs/danang-dragon-night/build.cjs",
+    "design:vector-sunset": "node designs/danang-vector-sunset/build.cjs",
+    "design:food": "node designs/danang-food/build.cjs",
+    "design:journal": "node designs/danang-journal/build.cjs",
+    "design:airmail": "node designs/danang-airmail/build.cjs",
+    "designs": "npm run design:dragon-night && npm run design:vector-sunset && npm run design:food"
+  },
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}

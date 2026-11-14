@@ -1,0 +1,3 @@
+# Third-party / licensed artwork stays local; only the source list is tracked.
+*/assets/*
+!*/assets/SOURCES.md

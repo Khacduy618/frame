@@ -1,0 +1,101 @@
+{
+  "id": "danang-airmail",
+  "product": "youAndMe",
+  "background": {
+    "image": "bg.png"
+  },
+  "stickers": [
+    {
+      "file": "stickers/airplane.png",
+      "x": 700,
+      "y": 90,
+      "w": 460,
+      "z": 1
+    },
+    {
+      "file": "stickers/stamp-miquang.png",
+      "x": 668,
+      "y": 2862,
+      "w": 267,
+      "z": 1
+    },
+    {
+      "file": "stickers/stamp-dragon.png",
+      "x": 860,
+      "y": 2858,
+      "w": 300,
+      "z": 2
+    },
+    {
+      "file": "stickers/postmark.png",
+      "x": 360,
+      "y": 2985,
+      "w": 358,
+      "z": 0
+    }
+  ],
+  "texts": [
+    {
+      "text": "A TRAVEL JOURNAL",
+      "x": 180,
+      "y": 200,
+      "size": 30,
+      "font": "American Typewriter",
+      "weight": "bold",
+      "color": "#2C4A7A",
+      "spacing": 8
+    },
+    {
+      "text": "DA NANG",
+      "x": 184,
+      "y": 2958,
+      "size": 90,
+      "font": "American Typewriter",
+      "weight": "bold",
+      "color": "#2B3A55"
+    },
+    {
+      "text": "where memories meet the sea",
+      "x": 186,
+      "y": 3205,
+      "size": 46,
+      "font": "Bradley Hand",
+      "weight": "bold",
+      "color": "#B23A2C"
+    },
+    {
+      "text": "DA NANG, VIETNAM",
+      "x": 186,
+      "y": 3255,
+      "size": 28,
+      "font": "American Typewriter",
+      "color": "#2B3A55",
+      "spacing": 3
+    },
+    {
+      "text": "THE CITY OF BRIDGES",
+      "x": 186,
+      "y": 3310,
+      "size": 28,
+      "font": "American Typewriter",
+      "color": "#2B3A55",
+      "spacing": 3
+    },
+    {
+      "text": "HAN RIVER · MY KHE · SON TRA",
+      "x": 186,
+      "y": 3365,
+      "size": 28,
+      "font": "American Typewriter",
+      "color": "#2B3A55",
+      "spacing": 3
+    }
+  ],
+  "logo": {
+    "x": 184,
+    "y": 3400,
+    "width": 230,
+    "variant": "ink"
+  },
+  "cut": "#2C4A7A"
+}
